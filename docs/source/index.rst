@@ -13,4 +13,6 @@ Contents
 
    Overview
    Modeling
+   HLS
+   Vivado
    
