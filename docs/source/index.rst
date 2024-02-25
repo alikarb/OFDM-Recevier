@@ -12,5 +12,5 @@ Contents
 .. toctree::
 
    Overview
-   Modeling & Simulation
+   Modeling
    
