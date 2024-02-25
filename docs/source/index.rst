@@ -12,7 +12,5 @@ Contents
 .. toctree::
 
    Overview
-   Modeling/Simulation
-   HLS Code
-   Vivado Project
+   Modeling & Simulation
    
