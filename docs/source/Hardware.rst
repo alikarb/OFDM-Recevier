@@ -1,4 +1,4 @@
-Overview
+Hardware
 =====
 This project wil introduce at a high level the main algorithm blocks that make up a software defined radio as well as go over the implementation of the algorithms on a ZYNQ FPGA.  
 
