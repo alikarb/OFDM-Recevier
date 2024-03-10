@@ -19,7 +19,7 @@ I gradauted in 2021 with a degree in Wireless Embedded Systems from UC San Diego
 
 I do not claim and am not an expert in this area which means there could be mistakes in the content of this page. I encourage indivduals to do their own research outside of this page.
 
-I'm always open to feedback, getting others perspectives, and learning more so feel free to reach out to me at **'sdr.ali.karbassi@gmail.com <sdr.ali.karbassi@gmail.com>'_** with questions/comments.
+I'm always open to feedback, getting others perspectives, and learning more so feel free to reach out to me at 'sdr.ali.karbassi/@gmail.com <sdr.ali.karbassi@gmail.com>'_ with questions/comments.
 
 Contents
 --------
