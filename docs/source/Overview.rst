@@ -1,5 +1,6 @@
 Overview
 =====
+This project wil go over the main blocks that make up a software defined radio as well as go over the implementation of the 
 
 .. _installation:
 

@@ -22,7 +22,7 @@ I'm always open to feedback, getting others perspectives, and learning more so f
 Contents
 --------
 
-.. toctree::
+.. content::
 
    :maxdepth: 1
    Overview

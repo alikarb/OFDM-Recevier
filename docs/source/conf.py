@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Single Carrier Receiver'
+project = 'Single Carrier SDR'
 copyright = ''
 author = 'Ali Karbassi'
 
