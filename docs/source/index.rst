@@ -31,8 +31,8 @@ Contents
 --------
 
 .. toctree::
+   :hidden:
 
-   :maxdepth: 0
    Hardware
    Modeling
    Vivado
