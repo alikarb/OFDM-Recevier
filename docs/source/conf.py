@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'OFDM Receiver'
+project = 'Single Carrier Receiver'
 copyright = ''
 author = 'Ali Karbassi'
 
