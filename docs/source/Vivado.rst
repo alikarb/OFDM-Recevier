@@ -1,4 +1,4 @@
-Vivado Project
+Vitis HLS/Vivado Project
 =====
 
 .. _installation:
