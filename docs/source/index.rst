@@ -4,15 +4,9 @@ OFDM receiver
 
 .. note::
 
-   This project is under active development.
+   This project is under active development and will continue to be updated
 
-Contents
---------
 
-.. toctree::
 
-   Overview
-   Modeling
-   HLS
-   Vivado
-   
+Motivation
+--------   
