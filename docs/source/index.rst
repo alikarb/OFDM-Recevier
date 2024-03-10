@@ -22,9 +22,9 @@ I'm always open to feedback, getting others perspectives, and learning more so f
 Contents
 --------
 
-.. content::
+.. toctree::
 
-   :maxdepth: 1
+   :maxdepth: 0
    Overview
    Modeling
    HLS
